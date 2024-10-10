@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 
 <html>
@@ -107,7 +106,6 @@ if(response == "true")
 </body>
 
 </html>
-=======
 <!DOCTYPE html>
 
 <html>
@@ -216,4 +214,3 @@ if(response == "true")
 </body>
 
 </html>
->>>>>>> abe5629a644b021a00fb3bd581678f9071f18a07
